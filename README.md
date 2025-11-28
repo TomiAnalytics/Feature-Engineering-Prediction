@@ -26,7 +26,8 @@ Feature-Engineering-Prediction/
 │    └─ Churn_Prediction_Model.ipynb[Telco_Churn_Notebook.ipynb](https://github.com/user-attachments/files/23813986/Telco_Churn_Notebook.ipynb)
 
 ├─ /data
-│    └─ sample_dataset.csv
+│    └─ sample_dataset.csv<img width="558" height="32171" alt="image" src="https://github.com/user-attachments/assets/94dd76bb-7530-40b1-8cde-a3a310f0e9c4" />
+
 ├─ /img
 │    └─ feature_importance.png<img width="435" height="493" alt="image" src="https://github.com/user-attachments/assets/8a4dc870-e4c2-4f14-bded-ed3675521207" />
 
