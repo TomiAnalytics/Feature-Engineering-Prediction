@@ -1,4 +1,4 @@
-[orders_aggregated.csv](https://github.com/user-attachments/files/23813932/orders_aggregated.csv)# Feature Engineering for Prediction: Supervised ML
+# Feature Engineering for Prediction: Supervised ML
 
 ## Objective
 Build a predictive model to identify high-risk customers (churn) or other business outcomes.
