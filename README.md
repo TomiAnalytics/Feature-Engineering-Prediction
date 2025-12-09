@@ -22,11 +22,13 @@ Python (Pandas, NumPy, Scikit-Learn), Jupyter Notebook
 - Use insights to improve customer engagement
 
 Feature-Engineering-Prediction/
+├─ /data
+│    └─ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
 ├─ /notebooks
 │    └─ Churn_Prediction_Model.ipynb[Telco_Churn_Notebook.ipynb](https://github.com/user-attachments/files/23813986/Telco_Churn_Notebook.ipynb)
 
-├─ /data
-│    └─ sample_dataset.csv
 
 ├─ /img
 │    └─ feature_importance.png<img width="435" height="493" alt="image" src="https://github.com/user-attachments/assets/8a4dc870-e4c2-4f14-bded-ed3675521207" />
